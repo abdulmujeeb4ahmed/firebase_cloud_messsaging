@@ -1,15 +1,15 @@
 {
   "project_info": {
-    "project_number": "803408501170",
-    "project_id": "cloud-messaging-e1a0f",
-    "storage_bucket": "cloud-messaging-e1a0f.firebasestorage.app"
+    "project_number": "5364361038",
+    "project_id": "cloud-messaging-c1e2d",
+    "storage_bucket": "cloud-messaging-c1e2d.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:803408501170:android:34fb5baec9deab79d56cab",
+        "mobilesdk_app_id": "1:5364361038:android:34fb5baec9deab79d56cab",
         "android_client_info": {
-          "package_name": "com.example.act14"
+          "package_name": "com.example.cloudmessaging"
         }
       },
       "oauth_client": [],
@@ -26,7 +26,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:803408501170:android:7876bd475d72a5acd56cab",
+        "mobilesdk_app_id": "1:5364361038:android:7876bd475d72a5acd56cab",
         "android_client_info": {
           "package_name": "com.example.cloudmessaging"
         }
